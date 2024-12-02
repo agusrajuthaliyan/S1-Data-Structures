@@ -19,8 +19,5 @@ int main()
               printf("\nThe duplicated element is %d",a[j]);
           }  
         }
-    }
-   
-
-    return 0;
+    }    return 0;
 }

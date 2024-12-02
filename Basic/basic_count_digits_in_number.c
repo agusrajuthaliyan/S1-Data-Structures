@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main()
+int main()
 {
     int num,n, count =0;
     printf("Enter a number: ");
@@ -12,4 +12,5 @@ void main()
         num = num/10;
     }
     printf("The count of digits in %d  is: %d",n,count);
+    return 0;
 }

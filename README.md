@@ -9,9 +9,11 @@ The code is organized into folders based on different programming concepts:
 - `2D-array`: Files related to Two-Dimensional Arrays
 - `Basic`: Files containing basic C programming concepts
 - `functions`: Files demonstrating the use of functions
+- `LinkedList` : Contains various LinkedList operations
 - `pointer`: Files exploring the use of pointers
-- `strings`: Files working with strings manipulation
-- `struct`: Files implementing structures
-- `Stack` : C files using stack Data Structure
 - `Queue` : Queue Datastructure programs
 - `Search & Sort` : Some search and sort Algorithms
+- `Stack` : C files using stack Data Structure
+- `strings`: Files working with strings manipulation
+- `struct`: Files implementing structures
+
